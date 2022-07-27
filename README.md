@@ -4,7 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Screen-shoots
 
-![thumb1}(https://raw.githubusercontent.com/boby177/B-Kitchens/main/src/assets/imgs/thumbs/Screenshot_1.png)
+![thumb1](https://raw.githubusercontent.com/boby177/B-Kitchens/main/src/assets/imgs/thumbs/Screenshot_1.png)
+![thumb2](https://raw.githubusercontent.com/boby177/B-Kitchens/main/src/assets/imgs/thumbs/Screenshot_2.png)
+![thumb3](https://raw.githubusercontent.com/boby177/B-Kitchens/main/src/assets/imgs/thumbs/Screenshot_3.png)
+![thumb4](https://raw.githubusercontent.com/boby177/B-Kitchens/main/src/assets/imgs/thumbs/Screenshot_4.png)
 
 ## Development server
 
