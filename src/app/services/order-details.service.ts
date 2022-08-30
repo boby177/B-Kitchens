@@ -62,7 +62,7 @@ export class OrderDetailsService {
       foodName: "Nasi Rendang Nendang",
       foodDetails: "Nasi rendang yang dagingnya akan menendang - nendang lidahmu sendiri.",
       foodPrice: 35000,
-      foodImg:"https://www.grandinnakuta.com/wp-content/uploads/2021/02/Nasi-Rendang.jpg", 
+      foodImg:"https://s4.bukalapak.com/img/9644710578/large/data.png", 
     },
     {
       id: 9,
